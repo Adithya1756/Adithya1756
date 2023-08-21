@@ -1,0 +1,65 @@
+import math
+import random
+
+
+def print_Hello():
+    print("Hello World")
+
+def add():
+    x=int(input("Enter No 1:"))
+    y=int(input("Enter No 2:"))
+    print("Sum =",x+y)
+    
+
+def sqrt():
+    x=int(input("Enter a number"))
+    print("Ans =",math.sqrt(x))
+
+def area():
+    x=int(input("Enter Base"))
+    y=int(input("Enter Height"))
+    print("Area =",x*y)
+
+def quad():
+    a=int(input("Enter coeff of x^2 :"))
+    b=int(input("Enter coeff of x :"))
+    c=int(input("Enter const :"))
+    d1 = (b*b)- 4*a*c
+    try:
+        D = math.sqrt(d1)
+        r1= (-b + D)/2*a
+        r2= (-b - D)/2*a
+        print("Root 1 :",r1)
+        print("Root 2 :",r2)
+    except ValueError:
+        print("Root is imaginary")
+
+
+def swap():
+    x=int(input("Enter Variable 1 :"))
+    y=int(input("Enter Variable 2 :"))
+    t=y
+    y=x
+    x=t
+
+    print("Variables Swapped")
+
+def rand():
+    x=random.randint(1,100)
+    print(x)
+
+def km_m():
+    x=float(input("Enter Distance in KM :"))
+    print(x*0.6)
+
+def cel_fa():
+    x=float(input("Enter Temp in Celcius :"))
+    f=(x*(9/5))+32
+    print("Temp in Farenheit :",f)
+
+def po_ne():
+    x=int(input("Enter a number :"))
+    if x>0:
+        print("Positive")
+    else:
+        print("Negative")
