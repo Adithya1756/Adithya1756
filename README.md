@@ -39,9 +39,10 @@
 
 ### 📫 Let’s Connect
 
-📧 adithya1756@gmail.com | 📞 (+91) 9789331756  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-ds-87721428b/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adithya1756)
+📧 adithya1756@gmail.com  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-ds-87721428b/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Adithya1756)
 
 ---
 
