@@ -1,44 +1,48 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="300"/>
+  <img src="https://cdn.dribbble.com/users/2124945/screenshots/6691659/media/2ee74379edec44638320c6d947bc89b1.gif" alt="Smooth Coding Animation" width="320" />
 </p>
 
 <h1 align="center">Hi, I'm Adithya DS 👋</h1>
-<p align="center">Passionate Coder • Frontend Developer • DSA Enthusiast • VIT Student</p>
+<p align="center">Frontend Developer • DSA Enthusiast • Lifelong Learner</p>
 
 ---
 
-## 💻 Technologies I Enjoy Working With
+<div align="center">
 
-**Languages:**  
-JavaScript | TypeScript | HTML & CSS | Python | C | C++ | Java
+### 💻 Tech Stack
 
-**Frameworks & Tools:**  
-React | Next.js | Tailwind CSS
+| Languages       | Frameworks & Libraries | Tools & Platforms    |
+|-----------------|-----------------------|---------------------|
+| JavaScript      | React                 | Git & GitHub        |
+| TypeScript      | Next.js               | VS Code             |
+| HTML & CSS      | Tailwind CSS          | Browser DevTools    |
+| Python          |                       |                     |
+| C, C++, Java    |                       |                     |
 
-**Developer Essentials:**  
-Git & GitHub | VS Code | Browser DevTools
-
----
-
-## 🎓 Current Journey
-
-🌍 Frontend Developer | Student at Vellore Institute of Technology  
-💼 Previous Internship Experience @ Integra Global Solutions
+</div>
 
 ---
 
-## 🔥 What Drives Me
+### 🎓 Current Roles
 
-Creating intuitive user interfaces and writing clean, maintainable code fuels my passion for software development.
-
----
-
-## 📫 Get In Touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/yourusername)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+- 🌍 Frontend Developer | Student at Vellore Institute of Technology  
+- 💼 Former Intern @ Integra Global Solutions  
 
 ---
 
-<p align="center">Let's innovate — one commit at a time. ⭐️</p>
+### 🔥 What Drives Me
+
+> Creating seamless and intuitive user experiences while mastering data structures and algorithms.  
+> Passionate about writing clean, efficient, and maintainable code.
+
+---
+
+### 📫 Let’s Connect
+
+📧 adithya1756@gmail.com | 📞 (+91) 9789331756  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-ds-87721428b/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adithya1756)
+
+---
+
+<p align="center">✨ Let's craft the future, one commit at a time.</p>
